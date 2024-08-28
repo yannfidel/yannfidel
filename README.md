@@ -2,9 +2,9 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/yann-fid%C3%A9lis-vasconcelos-20b19a266/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="linkedin logo"  />
   </a>
 </div>
 
@@ -44,6 +44,8 @@
 <img src="https://raw.githubusercontent.com/yannfidel/yannfidel/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://open.spotify.com/user/kueo93tm56d5nunlsobxk2huj">
